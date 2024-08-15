@@ -16,4 +16,4 @@ master_doc = 'index'
 display_version = True
 sticky_navigation = True
 # html_logo = '_static/img/icon.png'
-html_favicon = 'img/icon.png'
+# html_favicon = 'img/icon.png'

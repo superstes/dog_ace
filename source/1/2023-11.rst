@@ -30,6 +30,3 @@ Man konnte mit ihm noch recht gut wandern gehen. Doch man hat schon gemerkt, das
 Sonst ging es ihm aber recht gut.
 
 |sack|
-
-
-.. include:: ../_inc/attribution.rst

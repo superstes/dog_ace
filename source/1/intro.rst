@@ -44,6 +44,3 @@ As I'm located in Austria 🇦🇹, I will write it in german 🇩🇪. Feel fre
 If you have questions or information that could help/be useful - feel to reach out to me: :code:`rene.rath@ superstes.eu`
 
 |play|
-
-
-.. include:: ../_inc/attribution.rst
