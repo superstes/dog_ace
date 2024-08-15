@@ -1,76 +1,79 @@
 .. _2024_08:
 
 .. |01-paw| image:: ../_static/img/2024-08-01_paw_front.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |02-paw| image:: ../_static/img/2024-08-02_paw.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |03-paw-back| image:: ../_static/img/2024-08-03_paw_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |03-paw-front| image:: ../_static/img/2024-08-03_paw_front.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |07-paw-back| image:: ../_static/img/2024-08-07_paw_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |07-paw-front| image:: ../_static/img/2024-08-07_paw_front.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |07-paws-back| image:: ../_static/img/2024-08-07_paws_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |07-tounge| image:: ../_static/img/2024-08-07_tounge.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |10-paw-back| image:: ../_static/img/2024-08-10_paw_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |11-leg1| image:: ../_static/img/2024-08-11_leg.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |11-leg2| image:: ../_static/img/2024-08-11_leg2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |13-paw-back| image:: ../_static/img/2024-08-13_paw_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |13-paw-front| image:: ../_static/img/2024-08-13_paw_front.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-paw-back| image:: ../_static/img/2024-08-15_paw_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-paw-front1| image:: ../_static/img/2024-08-15_paw_front1.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-paw-front2| image:: ../_static/img/2024-08-15_paw_front2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-paws-back| image:: ../_static/img/2024-08-15_paws_back.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-paws-front| image:: ../_static/img/2024-08-15_paws_front.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-bandage1| image:: ../_static/img/2024-08-15_bandage1.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-bandage2| image:: ../_static/img/2024-08-15_bandage2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-elbow1| image:: ../_static/img/2024-08-15_elbow1.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-elbow2| image:: ../_static/img/2024-08-15_elbow2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-full1| image:: ../_static/img/2024-08-15_full.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |15-full2| image:: ../_static/img/2024-08-15_full2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
+
+.. |15-tounge| image:: ../_static/img/2024-08-15_tounge.jpg
+   :class: wiki-img
 
 
 =======
@@ -166,9 +169,11 @@ Hintere linke Pfote:
 2024-08-11
 ==========
 
-Ein größeres Stück Haare inklusive der Haut hat sich gelöst:
+Ein größeres Stück Haare inklusive der Haut hat sich von rechten Hinterbein gelöst:
 
 |11-leg1|
+
+Es war eigenartig verkrustet
 
 |11-leg2|
 
@@ -185,6 +190,10 @@ Hintere linke Pfote:
 
 2024-08-15
 ==========
+
+Zunge:
+
+|15-tounge|
 
 Vordere linke Pfote:
 

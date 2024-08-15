@@ -1,10 +1,10 @@
 .. _2024_07:
 
 .. |tounge1| image:: ../_static/img/2024-07-24_tounge1.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 .. |tounge2| image:: ../_static/img/2024-07-24_tounge2.jpg
-   :class: wiki-img-sm
+   :class: wiki-img
 
 =======
 2024-07
