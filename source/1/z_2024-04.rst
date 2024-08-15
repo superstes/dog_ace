@@ -1,0 +1,18 @@
+.. _2024_04:
+
+=======
+2024-04
+=======
+
+.. include:: ../_inc/head.rst
+
+Status
+******
+
+Es sind keine wirklichen Probleme aufgetreten.
+
+----
+
+Bilder
+******
+

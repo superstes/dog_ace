@@ -132,8 +132,6 @@ Entzündungswerte im Blut sind hoch. Der Hund hat offene Wunden bei den Ellenbog
 
 * Schmerzmittel für den folgenden Tag
 
-Bio
-
 2024-07-26
 **********
 
