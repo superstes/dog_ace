@@ -1,0 +1,35 @@
+.. _2023_11:
+
+.. |mountains| image:: ../../_static/img/cute/2023-11_mountains.jpg
+   :class: wiki-img
+
+.. |sack| image:: ../../_static/img/cute/2023-11_sack.jpg
+   :class: wiki-img
+
+.. |snow| image:: ../../_static/img/cute/2023-11_snow.jpg
+   :class: wiki-img
+
+=======
+2023-11
+=======
+
+.. include:: ../_inc/head.rst
+
+
+----
+
+Bilder
+******
+
+Man konnte mit ihm noch recht gut wandern gehen. Doch man hat schon gemerkt, dass seine Ausdauer schlechter wird.
+
+|mountains|
+
+|snow|
+
+Sonst ging es ihm aber recht gut.
+
+|sack|
+
+
+.. include:: ../_inc/attribution.rst
