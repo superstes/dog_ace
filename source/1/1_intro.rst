@@ -1,5 +1,8 @@
 .. _intro:
 
+.. |portrait| image:: ../_static/img/2023-04_portrait.png
+   :class: wiki-img-xs
+
 .. |play| image:: ../_static/img/2023-11_play.jpg
    :class: wiki-img-sm
 
@@ -8,6 +11,8 @@
 =========
 
 .. include:: ../_inc/head.rst
+
+|portrait|
 
 Deutsch
 *******
