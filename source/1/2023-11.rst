@@ -1,12 +1,12 @@
 .. _2023_11:
 
-.. |mountains| image:: ../../_static/img/cute/2023-11_mountains.jpg
+.. |mountains| image:: ../_static/img/2023-11_mountains.jpg
    :class: wiki-img
 
-.. |sack| image:: ../../_static/img/cute/2023-11_sack.jpg
+.. |sack| image:: ../_static/img/2023-11_sack.jpg
    :class: wiki-img
 
-.. |snow| image:: ../../_static/img/cute/2023-11_snow.jpg
+.. |snow| image:: ../_static/img/2023-11_snow.jpg
    :class: wiki-img
 
 =======

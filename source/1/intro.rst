@@ -1,6 +1,6 @@
 .. _intro:
 
-.. |play| image:: ../../_static/img/cute/2023-11_play.jpg
+.. |play| image:: ../_static/img/2023-11_play.jpg
    :class: wiki-img
 
 =========
