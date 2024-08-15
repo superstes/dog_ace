@@ -6,7 +6,7 @@
 
 .. include:: ../_inc/head.rst
 
-Eine grobe Übersicht über die Ernährung unseres Hundes.
+Eine Übersicht über die Medikamente, die unser Hund nehmen durfte.
 
 Für Details zu den Umständen und dem Zustand des Hundes, sieh dir bitte die Monats-Zusammenfassungen an.
 
