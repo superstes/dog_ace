@@ -1,0 +1,30 @@
+.. _2022:
+
+.. |lake| image:: ../_static/img/2022-10_lake.jpg
+   :class: wiki-img-xs
+
+====
+2022
+====
+
+.. include:: ../_inc/head.rst
+
+Status
+******
+
+Er war recht ruhig.
+
+Auch wenn wir uns mit anderen Hunden zum spielen getroffen haben, hatte er oft weniger Ausdauer.
+
+Er hat einen sehr starken Futtertrieb. Ich habe ihn selten wirklich satt gesehen - egal wie viel er isst. Das war auch schon vor 2023 so.
+
+Beim spazieren gehen etc. isst er alles was er so findet. Das konnten wir leider nie wirklich kontrollieren.
+
+Sonst hatten wir selten Probleme.
+
+----
+
+Bilder
+******
+
+|lake|

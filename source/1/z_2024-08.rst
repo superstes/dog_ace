@@ -1,5 +1,78 @@
 .. _2024_08:
 
+.. |01-paw| image:: ../_static/img/2024-08-01_paw_front.jpg
+   :class: wiki-img-sm
+
+.. |02-paw| image:: ../_static/img/2024-08-02_paw.jpg
+   :class: wiki-img-sm
+
+.. |03-paw-back| image:: ../_static/img/2024-08-03_paw_back.jpg
+   :class: wiki-img-sm
+
+.. |03-paw-front| image:: ../_static/img/2024-08-03_paw_front.jpg
+   :class: wiki-img-sm
+
+.. |07-paw-back| image:: ../_static/img/2024-08-07_paw_back.jpg
+   :class: wiki-img-sm
+
+.. |07-paw-front| image:: ../_static/img/2024-08-07_paw_front.jpg
+   :class: wiki-img-sm
+
+.. |07-paws-back| image:: ../_static/img/2024-08-07_paws_back.jpg
+   :class: wiki-img-sm
+
+.. |07-tounge| image:: ../_static/img/2024-08-07_tounge.jpg
+   :class: wiki-img-sm
+
+.. |10-paw-back| image:: ../_static/img/2024-08-10_paw_back.jpg
+   :class: wiki-img-sm
+
+.. |11-leg1| image:: ../_static/img/2024-08-11_leg.jpg
+   :class: wiki-img-sm
+
+.. |11-leg2| image:: ../_static/img/2024-08-11_leg2.jpg
+   :class: wiki-img-sm
+
+.. |13-paw-back| image:: ../_static/img/2024-08-13_paw_back.jpg
+   :class: wiki-img-sm
+
+.. |13-paw-front| image:: ../_static/img/2024-08-13_paw_front.jpg
+   :class: wiki-img-sm
+
+.. |15-paw-back| image:: ../_static/img/2024-08-15_paw_back.jpg
+   :class: wiki-img-sm
+
+.. |15-paw-front1| image:: ../_static/img/2024-08-15_paw_front1.jpg
+   :class: wiki-img-sm
+
+.. |15-paw-front2| image:: ../_static/img/2024-08-15_paw_front2.jpg
+   :class: wiki-img-sm
+
+.. |15-paws-back| image:: ../_static/img/2024-08-15_paws_back.jpg
+   :class: wiki-img-sm
+
+.. |15-paws-front| image:: ../_static/img/2024-08-15_paws_front.jpg
+   :class: wiki-img-sm
+
+.. |15-bandage1| image:: ../_static/img/2024-08-15_bandage1.jpg
+   :class: wiki-img-sm
+
+.. |15-bandage2| image:: ../_static/img/2024-08-15_bandage2.jpg
+   :class: wiki-img-sm
+
+.. |15-elbow1| image:: ../_static/img/2024-08-15_elbow1.jpg
+   :class: wiki-img-sm
+
+.. |15-elbow2| image:: ../_static/img/2024-08-15_elbow2.jpg
+   :class: wiki-img-sm
+
+.. |15-full1| image:: ../_static/img/2024-08-15_full.jpg
+   :class: wiki-img-sm
+
+.. |15-full2| image:: ../_static/img/2024-08-15_full2.jpg
+   :class: wiki-img-sm
+
+
 =======
 2024-08
 =======
@@ -41,4 +114,110 @@ Der Hund will sogar noch mit seinem Bällchen auf dem Rasen spielen - es geht ih
 Bilder
 ******
 
+2024-08-01
+==========
 
+Vordere linke Pfote:
+
+|01-paw|
+
+2024-08-02
+==========
+
+|02-paw|
+
+2024-08-03
+==========
+
+Vordere linke Pfote:
+
+|03-paw-front|
+
+Hintere linke Pfote:
+
+|03-paw-back|
+
+2024-08-07
+==========
+
+Zunge:
+
+|07-tounge|
+
+Vordere linke Pfote:
+
+|07-paw-front|
+
+Hintere linke Pfote:
+
+|07-paw-back|
+
+Beide hinteren Pfoten:
+
+|07-paws-back|
+
+2024-08-10
+==========
+
+Hintere linke Pfote:
+
+|10-paw-back|
+
+2024-08-11
+==========
+
+Ein größeres Stück Haare inklusive der Haut hat sich gelöst:
+
+|11-leg1|
+
+|11-leg2|
+
+2024-08-13
+==========
+
+Vordere linke Pfote:
+
+|13-paw-front|
+
+Hintere linke Pfote:
+
+|13-paw-back|
+
+2024-08-15
+==========
+
+Vordere linke Pfote:
+
+|15-paw-front1|
+
+|15-paw-front2|
+
+Beide vorderen Pfoten:
+
+|15-paws-front|
+
+Hintere linke Pfote:
+
+|15-paw-back|
+
+Beide hinteren Pfoten:
+
+|15-paws-back|
+
+Verbände:
+
+|15-bandage1|
+
+|15-bandage2|
+
+Ellenbogen:
+
+|15-elbow1|
+
+|15-elbow2|
+
+Gesamt:
+
+|15-full1|
+
+|15-full2|

@@ -1,5 +1,11 @@
 .. _2024_07:
 
+.. |tounge1| image:: ../_static/img/2024-07-24_tounge1.jpg
+   :class: wiki-img-sm
+
+.. |tounge2| image:: ../_static/img/2024-07-24_tounge2.jpg
+   :class: wiki-img-sm
+
 =======
 2024-07
 =======
@@ -63,4 +69,11 @@ Die vordere linke hat bereite eine Tatze in der sich ein Loch gebildet hat.
 
 Bilder
 ******
+
+2024-07-24
+==========
+
+|tounge1|
+
+|tounge2|
 

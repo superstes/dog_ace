@@ -1,4 +1,7 @@
-.. _2023_09:
+.. _2023_08:
+
+.. |hawl| image:: ../_static/img/2023-08_hawl.jpg
+   :class: wiki-img-xs
 
 =======
 2023-08
@@ -11,7 +14,11 @@ Status
 
 Hund isst ab und zu sein Trockenfutter nicht, Ausdauer ist etwas schlechter (fällt beim Wandern auf)
 
+Er hat sonst einen sehr starken Futtertrieb. Daher ist dieses Verhalten doch recht eigenartig.
+
 ----
 
 Bilder
 ******
+
+|hawl|
