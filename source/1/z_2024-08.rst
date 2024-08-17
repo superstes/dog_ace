@@ -75,6 +75,11 @@
 .. |15-tounge| image:: ../_static/img/2024-08-15_tounge.jpg
    :class: wiki-img
 
+.. |17-paw-back| image:: ../_static/img/2024-08-17_paw_back.jpg
+   :class: wiki-img
+
+.. |17-paw-front| image:: ../_static/img/2024-08-17_paw_front.jpg
+   :class: wiki-img
 
 =======
 2024-08
@@ -110,7 +115,10 @@ Die betroffenen Ballen der Linken Pfoten werden jedoch nach und nach schlechter.
 
 Der Hund will sogar noch mit seinem Bällchen auf dem Rasen spielen - es geht ihm nicht wirklich schlecht. Leider bluten ihm nach dem gehen jedoch auch immer wieder die Pfoten.
 
+2024-08-16
+==========
 
+Der Hund ist recht viel im Garten spazieren gegangen. Die wunden Pfoten scheinen ihn nicht übermäßig zu stören.
 
 ----
 
@@ -230,3 +238,14 @@ Gesamt:
 |15-full1|
 
 |15-full2|
+
+2024-08-17
+==========
+
+Vordere linke Pfote:
+
+|17-paw-front|
+
+Hintere linke Pfote:
+
+|17-paw-back|
