@@ -99,6 +99,12 @@
 .. |25-paw-front| image:: ../_static/img/2024-08-25_paw_front.jpg
    :class: wiki-img
 
+.. |25-neck| image:: ../_static/img/2024-08-25_neck.jpg
+   :class: wiki-img
+
+.. |25-tounge| image:: ../_static/img/2024-08-25_tounge.jpg
+   :class: wiki-img
+
 =======
 2024-08
 =======
@@ -150,7 +156,7 @@ Es wird nun auch eine Honig-Salbe eingesetzt.
 
 Der Zustand der vorderen Pfote scheint sich zu verbessern - sie hat wieder Gewebe aufgebaut.
 
-Im Nackenbereich wurde beim Kraulen eine Verhärtung gefunden, welche mehrere cm² groß ist. (siehe Bild)
+Im Nackenbereich wurde beim Kraulen eine Verhärtung gefunden, welche mehrere cm² groß ist. (siehe Bild 25.08.)
 
 
 ----
@@ -313,3 +319,11 @@ Vordere linke Pfote:
 Hintere linke Pfote:
 
 |25-paw-back|
+
+Zunge:
+
+|25-tounge|
+
+Verhärtung im Nackenbereich:
+
+|25-neck|
