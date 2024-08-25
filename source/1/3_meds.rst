@@ -167,3 +167,9 @@ Die 'Clean Slate' Tropen werden nun wieder gegeben, da die Mutter dies probieren
 **********
 
 * **Kesium** Antibiotika 500mg/125mg (2 Stk/Tag)
+
+2024-08-19
+**********
+
+* **Cyclavance** 50ml - 1x (1.8ml/Tag)
+* Manuka Honey Gel

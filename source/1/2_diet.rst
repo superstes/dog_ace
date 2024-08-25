@@ -62,6 +62,8 @@ Folgende Produkte haben wir diesbezüglich gefüttert:
 
 * `Medica - Nierendiät <https://www.fressnapf.at/p/select-gold-medica-nierendiaet-anfangsphase-huhn-6x400-g-1651695/>`_ Feutchfutter
 
+Aufteilung ca: 400g Dose am Morgen, ~50g Trockenfutter Mittags, ~110g Trockenfutter Abends
+
 Leider haben wir jedoch nicht daran gedacht, dass wir dem Hund keine 'normalen' Leckerlies mehr geben dürfen. Somit wurde ihm dort weiterhin bis zum August Proteinreiches Futter zugeführt.
 
 2024-06

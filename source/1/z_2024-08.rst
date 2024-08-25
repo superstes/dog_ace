@@ -81,6 +81,24 @@
 .. |17-paw-front| image:: ../_static/img/2024-08-17_paw_front.jpg
    :class: wiki-img
 
+.. |19-paw-back| image:: ../_static/img/2024-08-19_paw_back.jpg
+   :class: wiki-img
+
+.. |19-paw-front| image:: ../_static/img/2024-08-19_paw_front.jpg
+   :class: wiki-img
+
+.. |23-elbow| image:: ../_static/img/2024-08-23_elbow.jpg
+   :class: wiki-img
+
+.. |23-paw-front| image:: ../_static/img/2024-08-23_paw_front.jpg
+   :class: wiki-img
+
+.. |25-paw-back| image:: ../_static/img/2024-08-25_paw_back.jpg
+   :class: wiki-img
+
+.. |25-paw-front| image:: ../_static/img/2024-08-25_paw_front.jpg
+   :class: wiki-img
+
 =======
 2024-08
 =======
@@ -119,6 +137,21 @@ Der Hund will sogar noch mit seinem Bällchen auf dem Rasen spielen - es geht ih
 ==========
 
 Der Hund ist recht viel im Garten spazieren gegangen. Die wunden Pfoten scheinen ihn nicht übermäßig zu stören.
+
+2024-08-19
+==========
+
+Pfoten werden nun zusätzlich mit Watte-Verbänden geschützt. (siehe Bild)
+
+Es wird nun auch eine Honig-Salbe eingesetzt.
+
+2024-08-21
+==========
+
+Der Zustand der vorderen Pfote scheint sich zu verbessern - sie hat wieder Gewebe aufgebaut.
+
+Im Nackenbereich wurde beim Kraulen eine Verhärtung gefunden, welche mehrere cm² groß ist. (siehe Bild)
+
 
 ----
 
@@ -249,3 +282,34 @@ Vordere linke Pfote:
 Hintere linke Pfote:
 
 |17-paw-back|
+
+2024-08-19
+==========
+
+Neue Watte Verbände:
+
+|19-paw-front|
+
+|19-paw-back|
+
+2024-08-23
+==========
+
+Vordere linke Pfote:
+
+|23-paw-front|
+
+Ellenbogen:
+
+|23-elbow|
+
+2024-08-25
+==========
+
+Vordere linke Pfote:
+
+|25-paw-front|
+
+Hintere linke Pfote:
+
+|25-paw-back|
