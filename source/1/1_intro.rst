@@ -1,6 +1,6 @@
 .. _intro:
 
-.. |portrait| image:: ../_static/img/2023-04_portrait.png
+.. |portrait| image:: ../_static/img/2023-04_portrait.jpg
    :class: wiki-img-xs
 
 .. |play| image:: ../_static/img/2023-11_play.jpg

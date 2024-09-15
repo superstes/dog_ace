@@ -1,0 +1,81 @@
+.. _2024_09:
+
+.. |06-paw-front| image:: ../_static/img/2024-09-06_paw_front.jpg
+   :class: wiki-img
+
+.. |06-paw-back| image:: ../_static/img/2024-09-06_paw_back.jpg
+   :class: wiki-img
+
+.. |13-tounge| image:: ../_static/img/2024-09-14_tounge.jpg
+   :class: wiki-img
+
+.. |14-paw-front| image:: ../_static/img/2024-09-14_paw_front.jpg
+   :class: wiki-img
+
+.. |14-paw-back| image:: ../_static/img/2024-09-14_paw_back.jpg
+   :class: wiki-img
+
+
+=======
+2024-09
+=======
+
+.. include:: ../_inc/head.rst
+
+Status
+******
+
+2024-09-06
+==========
+
+Der Zustand der Pfoten verbessert sich weiterhin.
+
+Hund ist aufgeweckt, isst gut und spielt gerne.
+
+2024-09-13
+==========
+
+Die Zunge scheint langsam auch wieder zu heilen.
+
+2024-09-14
+==========
+
+Durch die Feuchtigkeit des Dauerregens weichen sich die Verbände immer wieder an.
+
+Diesbezüglich lassen wir diese unter Tags zur Zeit weg.
+
+Die Pfoten-Heilung wird dementsprechend etwas verlangsamt.
+
+----
+
+Bilder
+******
+
+2024-09-06
+==========
+
+Vordere linke Pfote:
+
+|06-paw-front|
+
+Hintere linke Pfote:
+
+|06-paw-back|
+
+2024-09-13
+==========
+
+Zunge:
+
+|13-tounge|
+
+2024-09-14
+==========
+
+Vordere linke Pfote:
+
+|14-paw-front|
+
+Hintere linke Pfote:
+
+|14-paw-back|

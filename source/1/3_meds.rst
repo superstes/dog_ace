@@ -173,3 +173,12 @@ Die 'Clean Slate' Tropen werden nun wieder gegeben, da die Mutter dies probieren
 
 * **Cyclavance** 50ml - 1x (1.8ml/Tag)
 * Manuka Honey Gel
+
+Cortisone wird auf 10mg/Tag verringert.
+
+2024-09-05
+**********
+
+* **Cyclavance** 15ml
+
+Cortisone wir auf 5mg/Tag verringert.
