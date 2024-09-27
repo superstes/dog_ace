@@ -50,8 +50,6 @@ Tägliche Dosis des Cortisone wird auf 30mg/Tag reduziert, da man keine Besserun
 
 * **Pantoloc** 20mg (14 Stk)
 
-* - **Cyclavance**
-
 Da sich die Wasseransammlung noch nicht gebessert hatte, werden nun Tabletten zur 'Entwässerung' verschrieben.
 
 Da es dem Hund seit dem Einsatz des Ciclosporin noch schlechter ging, wird dies dazwischen wieder weg gelassen.
