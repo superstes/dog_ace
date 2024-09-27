@@ -1,9 +1,9 @@
 .. _2021:
 
-.. |kiss| image:: ../_static/img/2021-11_kiss.jpg
+.. |kiss| image:: ../_static/img/2021-11_kiss.webp
    :class: wiki-img-sm
 
-.. |sweet| image:: ../_static/img/2021-11_sweet.jpg
+.. |sweet| image:: ../_static/img/2021-11_sweet.webp
    :class: wiki-img-sm
 
 ====

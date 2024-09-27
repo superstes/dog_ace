@@ -1,6 +1,6 @@
 .. _2022:
 
-.. |lake| image:: ../_static/img/2022-10_lake.jpg
+.. |lake| image:: ../_static/img/2022-10_lake.webp
    :class: wiki-img-xs
 
 ====

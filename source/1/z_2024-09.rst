@@ -1,18 +1,48 @@
 .. _2024_09:
 
-.. |06-paw-front| image:: ../_static/img/2024-09-06_paw_front.jpg
+.. |06-paw-front| image:: ../_static/img/2024-09-06_paw_front.webp
    :class: wiki-img
 
-.. |06-paw-back| image:: ../_static/img/2024-09-06_paw_back.jpg
+.. |06-paw-back| image:: ../_static/img/2024-09-06_paw_back.webp
    :class: wiki-img
 
-.. |13-tounge| image:: ../_static/img/2024-09-14_tounge.jpg
+.. |13-tounge| image:: ../_static/img/2024-09-13_tounge.webp
    :class: wiki-img
 
-.. |14-paw-front| image:: ../_static/img/2024-09-14_paw_front.jpg
+.. |14-paw-front| image:: ../_static/img/2024-09-14_paw_front.webp
    :class: wiki-img
 
-.. |14-paw-back| image:: ../_static/img/2024-09-14_paw_back.jpg
+.. |14-paw-back| image:: ../_static/img/2024-09-14_paw_back.webp
+   :class: wiki-img
+
+.. |18-paw-front| image:: ../_static/img/2024-09-18_paw_front.webp
+   :class: wiki-img
+
+.. |18-elbow-right| image:: ../_static/img/2024-09-18_elbow_right.webp
+   :class: wiki-img
+
+.. |19-paw-front| image:: ../_static/img/2024-09-19_paw_front.webp
+   :class: wiki-img
+
+.. |25-mouth| image:: ../_static/img/2024-09-25_mouth.webp
+   :class: wiki-img
+
+.. |25-paw-front| image:: ../_static/img/2024-09-25_paw_front.webp
+   :class: wiki-img
+
+.. |25-paw-back| image:: ../_static/img/2024-09-25_paw_back.webp
+   :class: wiki-img
+
+.. |26-paw-front| image:: ../_static/img/2024-09-26_paw_front.webp
+   :class: wiki-img
+
+.. |26-paw-back| image:: ../_static/img/2024-09-26_paw_back.webp
+   :class: wiki-img
+
+.. |27-paw-front| image:: ../_static/img/2024-09-27_paw_front.webp
+   :class: wiki-img
+
+.. |27-paw-back| image:: ../_static/img/2024-09-27_paw_back.webp
    :class: wiki-img
 
 
@@ -45,6 +75,36 @@ Durch die Feuchtigkeit des Dauerregens weichen sich die Verbände immer wieder a
 Diesbezüglich lassen wir diese unter Tags zur Zeit weg.
 
 Die Pfoten-Heilung wird dementsprechend etwas verlangsamt.
+
+2024-09-18
+==========
+
+Der Hund hinkt sichtlich und hat wieder mehr schmerzen.
+
+Bei der vorderen Pfote haben sich neue Wunden geöffnet.
+
+Wir binden die Pfoten nun wieder ein. Wenn er nach draußen gehen muss, werden Plastik-Sackerln über die Verbände gestülpt.
+
+Gesalbt wird vor allem mit Bepanthen und der Honig-Salbe.
+
+2024-09-23
+==========
+
+Der Zustand der vorderen Pfote hat sich verschlechtert. Sie ist stark angeschwollen.
+
+Wir tauschen nun 3x täglich den Verband und tragen entzündungshemmende Hausmittel auf die Wunden auf. Vor allem Propolis Honig und Curcuma (Pulver).
+
+2024-09-25
+==========
+
+Das Antibiotikum wurde getauscht.
+
+2024-09-27
+==========
+
+Die Schwellung der Pfoten scheint minimal zurück zu gehen.
+
+Können nur hoffen, dass sie sich in den nächsten Tagen erholen. Sonst könnte ein operativer Eingriff, wie Amputation der Tatzen, nötig sein.
 
 ----
 
@@ -79,3 +139,60 @@ Vordere linke Pfote:
 Hintere linke Pfote:
 
 |14-paw-back|
+
+2024-09-18
+==========
+
+Vordere linke Pfote:
+
+|18-paw-front|
+
+Rechter Ellenbogen:
+
+|18-elbow-right|
+
+2024-09-19
+==========
+
+Vordere linke Pfote:
+
+|19-paw-front|
+
+2024-09-25
+==========
+
+Vordere linke Pfote:
+
+|25-paw-front|
+
+Hintere linke Pfote:
+
+|25-paw-back|
+
+Kleine Entzündung im Mund:
+
+|25-mouth|
+
+2024-09-26
+==========
+
+Vordere linke Pfote:
+
+|26-paw-front|
+
+Hintere linke Pfote:
+
+|26-paw-back|
+
+2024-09-27
+==========
+
+Notiz: Die Pfoten sind gelb vom Curcuma Pulver.
+
+Vordere linke Pfote:
+
+|27-paw-front|
+
+Hintere linke Pfote:
+
+|27-paw-back|

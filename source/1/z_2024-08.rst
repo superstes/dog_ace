@@ -1,108 +1,108 @@
 .. _2024_08:
 
-.. |01-paw| image:: ../_static/img/2024-08-01_paw_front.jpg
+.. |01-paw| image:: ../_static/img/2024-08-01_paw_front.webp
    :class: wiki-img
 
-.. |02-paw| image:: ../_static/img/2024-08-02_paw.jpg
+.. |02-paw| image:: ../_static/img/2024-08-02_paw.webp
    :class: wiki-img
 
-.. |03-paw-back| image:: ../_static/img/2024-08-03_paw_back.jpg
+.. |03-paw-back| image:: ../_static/img/2024-08-03_paw_back.webp
    :class: wiki-img
 
-.. |03-paw-front| image:: ../_static/img/2024-08-03_paw_front.jpg
+.. |03-paw-front| image:: ../_static/img/2024-08-03_paw_front.webp
    :class: wiki-img
 
-.. |07-paw-back| image:: ../_static/img/2024-08-07_paw_back.jpg
+.. |07-paw-back| image:: ../_static/img/2024-08-07_paw_back.webp
    :class: wiki-img
 
-.. |07-paw-front| image:: ../_static/img/2024-08-07_paw_front.jpg
+.. |07-paw-front| image:: ../_static/img/2024-08-07_paw_front.webp
    :class: wiki-img
 
-.. |07-paws-back| image:: ../_static/img/2024-08-07_paws_back.jpg
+.. |07-paws-back| image:: ../_static/img/2024-08-07_paws_back.webp
    :class: wiki-img
 
-.. |07-tounge| image:: ../_static/img/2024-08-07_tounge.jpg
+.. |07-tounge| image:: ../_static/img/2024-08-07_tounge.webp
    :class: wiki-img
 
-.. |10-paw-back| image:: ../_static/img/2024-08-10_paw_back.jpg
+.. |10-paw-back| image:: ../_static/img/2024-08-10_paw_back.webp
    :class: wiki-img
 
-.. |11-leg1| image:: ../_static/img/2024-08-11_leg.jpg
+.. |11-leg1| image:: ../_static/img/2024-08-11_leg.webp
    :class: wiki-img
 
-.. |11-leg2| image:: ../_static/img/2024-08-11_leg2.jpg
+.. |11-leg2| image:: ../_static/img/2024-08-11_leg2.webp
    :class: wiki-img
 
-.. |13-paw-back| image:: ../_static/img/2024-08-13_paw_back.jpg
+.. |13-paw-back| image:: ../_static/img/2024-08-13_paw_back.webp
    :class: wiki-img
 
-.. |13-paw-front| image:: ../_static/img/2024-08-13_paw_front.jpg
+.. |13-paw-front| image:: ../_static/img/2024-08-13_paw_front.webp
    :class: wiki-img
 
-.. |15-paw-back| image:: ../_static/img/2024-08-15_paw_back.jpg
+.. |15-paw-back| image:: ../_static/img/2024-08-15_paw_back.webp
    :class: wiki-img
 
-.. |15-paw-front1| image:: ../_static/img/2024-08-15_paw_front1.jpg
+.. |15-paw-front1| image:: ../_static/img/2024-08-15_paw_front1.webp
    :class: wiki-img
 
-.. |15-paw-front2| image:: ../_static/img/2024-08-15_paw_front2.jpg
+.. |15-paw-front2| image:: ../_static/img/2024-08-15_paw_front2.webp
    :class: wiki-img
 
-.. |15-paws-back| image:: ../_static/img/2024-08-15_paws_back.jpg
+.. |15-paws-back| image:: ../_static/img/2024-08-15_paws_back.webp
    :class: wiki-img
 
-.. |15-paws-front| image:: ../_static/img/2024-08-15_paws_front.jpg
+.. |15-paws-front| image:: ../_static/img/2024-08-15_paws_front.webp
    :class: wiki-img
 
-.. |15-bandage1| image:: ../_static/img/2024-08-15_bandage1.jpg
+.. |15-bandage1| image:: ../_static/img/2024-08-15_bandage1.webp
    :class: wiki-img
 
-.. |15-bandage2| image:: ../_static/img/2024-08-15_bandage2.jpg
+.. |15-bandage2| image:: ../_static/img/2024-08-15_bandage2.webp
    :class: wiki-img
 
-.. |15-elbow1| image:: ../_static/img/2024-08-15_elbow1.jpg
+.. |15-elbow1| image:: ../_static/img/2024-08-15_elbow1.webp
    :class: wiki-img
 
-.. |15-elbow2| image:: ../_static/img/2024-08-15_elbow2.jpg
+.. |15-elbow2| image:: ../_static/img/2024-08-15_elbow2.webp
    :class: wiki-img
 
-.. |15-full1| image:: ../_static/img/2024-08-15_full.jpg
+.. |15-full1| image:: ../_static/img/2024-08-15_full.webp
    :class: wiki-img
 
-.. |15-full2| image:: ../_static/img/2024-08-15_full2.jpg
+.. |15-full2| image:: ../_static/img/2024-08-15_full2.webp
    :class: wiki-img
 
-.. |15-tounge| image:: ../_static/img/2024-08-15_tounge.jpg
+.. |15-tounge| image:: ../_static/img/2024-08-15_tounge.webp
    :class: wiki-img
 
-.. |17-paw-back| image:: ../_static/img/2024-08-17_paw_back.jpg
+.. |17-paw-back| image:: ../_static/img/2024-08-17_paw_back.webp
    :class: wiki-img
 
-.. |17-paw-front| image:: ../_static/img/2024-08-17_paw_front.jpg
+.. |17-paw-front| image:: ../_static/img/2024-08-17_paw_front.webp
    :class: wiki-img
 
-.. |19-paw-back| image:: ../_static/img/2024-08-19_paw_back.jpg
+.. |19-paw-back| image:: ../_static/img/2024-08-19_paw_back.webp
    :class: wiki-img
 
-.. |19-paw-front| image:: ../_static/img/2024-08-19_paw_front.jpg
+.. |19-paw-front| image:: ../_static/img/2024-08-19_paw_front.webp
    :class: wiki-img
 
-.. |23-elbow| image:: ../_static/img/2024-08-23_elbow.jpg
+.. |23-elbow| image:: ../_static/img/2024-08-23_elbow.webp
    :class: wiki-img
 
-.. |23-paw-front| image:: ../_static/img/2024-08-23_paw_front.jpg
+.. |23-paw-front| image:: ../_static/img/2024-08-23_paw_front.webp
    :class: wiki-img
 
-.. |25-paw-back| image:: ../_static/img/2024-08-25_paw_back.jpg
+.. |25-paw-back| image:: ../_static/img/2024-08-25_paw_back.webp
    :class: wiki-img
 
-.. |25-paw-front| image:: ../_static/img/2024-08-25_paw_front.jpg
+.. |25-paw-front| image:: ../_static/img/2024-08-25_paw_front.webp
    :class: wiki-img
 
-.. |25-neck| image:: ../_static/img/2024-08-25_neck.jpg
+.. |25-neck| image:: ../_static/img/2024-08-25_neck.webp
    :class: wiki-img
 
-.. |25-tounge| image:: ../_static/img/2024-08-25_tounge.jpg
+.. |25-tounge| image:: ../_static/img/2024-08-25_tounge.webp
    :class: wiki-img
 
 =======

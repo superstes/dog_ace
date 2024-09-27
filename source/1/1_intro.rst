@@ -1,9 +1,9 @@
 .. _intro:
 
-.. |portrait| image:: ../_static/img/2023-04_portrait.jpg
+.. |portrait| image:: ../_static/img/2023-04_portrait.webp
    :class: wiki-img-xs
 
-.. |play| image:: ../_static/img/2023-11_play.jpg
+.. |play| image:: ../_static/img/2023-11_play.webp
    :class: wiki-img-sm
 
 =========

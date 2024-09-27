@@ -1,69 +1,69 @@
 .. _tests:
 
-.. |blood_2024-01-09_1| image:: ../_static/img/2024-01-09_blood1.jpg
+.. |blood_2024-01-09_1| image:: ../_static/img/2024-01-09_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-01-09_2| image:: ../_static/img/2024-01-09_blood2.jpg
+.. |blood_2024-01-09_2| image:: ../_static/img/2024-01-09_blood2.webp
    :class: wiki-img
 
-.. |blood_chem_2024-01-09| image:: ../_static/img/2024-01-09_blood_chem.jpg
+.. |blood_chem_2024-01-09| image:: ../_static/img/2024-01-09_blood_chem.webp
    :class: wiki-img
 
-.. |blood_2024-01-23_1| image:: ../_static/img/2024-01-23_blood1.jpg
+.. |blood_2024-01-23_1| image:: ../_static/img/2024-01-23_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-01-23_2| image:: ../_static/img/2024-01-23_blood2.jpg
+.. |blood_2024-01-23_2| image:: ../_static/img/2024-01-23_blood2.webp
    :class: wiki-img
 
-.. |blood_2024-02-06_1| image:: ../_static/img/2024-02-06_blood1.jpg
+.. |blood_2024-02-06_1| image:: ../_static/img/2024-02-06_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-02-06_2| image:: ../_static/img/2024-02-06_blood2.jpg
+.. |blood_2024-02-06_2| image:: ../_static/img/2024-02-06_blood2.webp
    :class: wiki-img
 
-.. |blood_2024-02-12| image:: ../_static/img/2024-02-12_blood.jpg
+.. |blood_2024-02-12| image:: ../_static/img/2024-02-12_blood.webp
    :class: wiki-img
 
-.. |blood_chem_2024-02-12| image:: ../_static/img/2024-02-12_blood_chem.jpg
+.. |blood_chem_2024-02-12| image:: ../_static/img/2024-02-12_blood_chem.webp
    :class: wiki-img
 
-.. |blood_2024-02-19_1| image:: ../_static/img/2024-02-19_blood1.jpg
+.. |blood_2024-02-19_1| image:: ../_static/img/2024-02-19_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-02-19_2| image:: ../_static/img/2024-02-19_blood2.jpg
+.. |blood_2024-02-19_2| image:: ../_static/img/2024-02-19_blood2.webp
    :class: wiki-img
 
-.. |blood_2024-02-26| image:: ../_static/img/2024-02-26_blood.jpg
+.. |blood_2024-02-26| image:: ../_static/img/2024-02-26_blood.webp
    :class: wiki-img
 
-.. |blood_2024-03-18_1| image:: ../_static/img/2024-03-18_blood1.jpg
+.. |blood_2024-03-18_1| image:: ../_static/img/2024-03-18_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-03-18_2| image:: ../_static/img/2024-03-18_blood2.jpg
+.. |blood_2024-03-18_2| image:: ../_static/img/2024-03-18_blood2.webp
    :class: wiki-img
 
-.. |blood_chem_2024-03-18| image:: ../_static/img/2024-03-18_blood_chem.jpg
+.. |blood_chem_2024-03-18| image:: ../_static/img/2024-03-18_blood_chem.webp
    :class: wiki-img
 
-.. |blood_2024-05-15| image:: ../_static/img/2024-05-15_blood.jpg
+.. |blood_2024-05-15| image:: ../_static/img/2024-05-15_blood.webp
    :class: wiki-img
 
-.. |blood_2024-06-01| image:: ../_static/img/2024-06-01_blood.jpg
+.. |blood_2024-06-01| image:: ../_static/img/2024-06-01_blood.webp
    :class: wiki-img
 
-.. |blood_2024-06-10| image:: ../_static/img/2024-06-10_blood.jpg
+.. |blood_2024-06-10| image:: ../_static/img/2024-06-10_blood.webp
    :class: wiki-img
 
-.. |blood_chem_2024-06-10| image:: ../_static/img/2024-06-10_blood_chem.jpg
+.. |blood_chem_2024-06-10| image:: ../_static/img/2024-06-10_blood_chem.webp
    :class: wiki-img
 
-.. |blood_2024-06-15| image:: ../_static/img/2024-06-15_blood.jpg
+.. |blood_2024-06-15| image:: ../_static/img/2024-06-15_blood.webp
    :class: wiki-img
 
-.. |blood_2024-06-24_1| image:: ../_static/img/2024-06-24_blood1.jpg
+.. |blood_2024-06-24_1| image:: ../_static/img/2024-06-24_blood1.webp
    :class: wiki-img
 
-.. |blood_2024-06-24_2| image:: ../_static/img/2024-06-24_blood2.jpg
+.. |blood_2024-06-24_2| image:: ../_static/img/2024-06-24_blood2.webp
    :class: wiki-img
 
 ===================

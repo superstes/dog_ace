@@ -1,6 +1,6 @@
 .. _2023_08:
 
-.. |hawl| image:: ../_static/img/2023-08_hawl.jpg
+.. |hawl| image:: ../_static/img/2023-08_hawl.webp
    :class: wiki-img-xs
 
 =======

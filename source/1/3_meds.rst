@@ -147,7 +147,7 @@ Cortisone wird auf 60mg/Tag (2-1) erhöht
 
 * **Kesium** Antibiotika 500mg/125mg (2 Stk/Tag)
 
-* Spritze - Schmerzmittel
+* Spritze - **Librella** 20mg Schmerzmittel
 
 Cortisone scheint nicht zu wirken - Dosis wird wieder auf 20mg/Tag verringert.
 
@@ -176,9 +176,38 @@ Die 'Clean Slate' Tropen werden nun wieder gegeben, da die Mutter dies probieren
 
 Cortisone wird auf 10mg/Tag verringert.
 
+2024-08-26
+**********
+
+* **Kesium** Antibiotika 30Stk (2 Stk/Tag)
+
 2024-09-05
 **********
 
 * **Cyclavance** 15ml
 
 Cortisone wir auf 5mg/Tag verringert.
+
+2024-09-16
+**********
+
+* **Kesium** Antibiotika 28Stk (2 Stk/Tag)
+
+2024-09-23
+**********
+
+* **Cyclavance** 50ml - 1x (1.8ml/Tag)
+
+Cortisone wir auf 5mg alle 2 Tage verringert.
+
+2024-09-25
+**********
+
+* **Clindabatin** Antibiotika 440mg (2x 3/4Stk)
+
+Kesium Antibiotika wird ausgetauscht, da es bei der Entzündung der Pfoten anscheinend nicht greift.
+
+2024-09-27
+**********
+
+* Spritze - **Librella** 20mg Schmerzmittel

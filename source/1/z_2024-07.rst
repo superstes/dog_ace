@@ -1,9 +1,9 @@
 .. _2024_07:
 
-.. |tounge1| image:: ../_static/img/2024-07-24_tounge1.jpg
+.. |tounge1| image:: ../_static/img/2024-07-24_tounge1.webp
    :class: wiki-img
 
-.. |tounge2| image:: ../_static/img/2024-07-24_tounge2.jpg
+.. |tounge2| image:: ../_static/img/2024-07-24_tounge2.webp
    :class: wiki-img
 
 =======
