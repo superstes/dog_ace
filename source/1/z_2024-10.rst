@@ -1,0 +1,134 @@
+.. _2024_10:
+
+.. |03-paw-back1| image:: ../_static/img/2024-10-03_paw_back.webp
+   :class: wiki-img
+
+.. |03-paw-back2| image:: ../_static/img/2024-10-03_paw_back2.webp
+   :class: wiki-img
+
+.. |04-paw-front| image:: ../_static/img/2024-10-04_paw_front.webp
+   :class: wiki-img
+
+.. |07-paw-back| image:: ../_static/img/2024-10-07_paw_back.webp
+   :class: wiki-img
+
+.. |07-paw-front| image:: ../_static/img/2024-10-07_paw_front.webp
+   :class: wiki-img
+
+.. |09-paw-back| image:: ../_static/img/2024-10-09_paw_back.webp
+   :class: wiki-img
+
+.. |09-paw-front| image:: ../_static/img/2024-10-09_paw_front.webp
+   :class: wiki-img
+
+.. |12-paw-back| image:: ../_static/img/2024-10-12_paw_back.webp
+   :class: wiki-img
+
+.. |12-paw-front| image:: ../_static/img/2024-10-12_paw_front.webp
+   :class: wiki-img
+
+.. |14-paw-back| image:: ../_static/img/2024-10-14_paw_back.webp
+   :class: wiki-img
+
+.. |14-paw-front| image:: ../_static/img/2024-10-14_paw_front.webp
+   :class: wiki-img
+
+.. |16-paw-back| image:: ../_static/img/2024-10-16_paw_back.webp
+   :class: wiki-img
+
+.. |16-paw-front| image:: ../_static/img/2024-10-16_paw_front.webp
+   :class: wiki-img
+
+=======
+2024-10
+=======
+
+.. include:: ../_inc/head.rst
+
+Status
+******
+
+2024-10
+=======
+
+Die Schwellung der vorderen Pfote geht leicht zurück.
+
+Die der hinteren nimmt jedoch zu.
+
+2024-10-14
+==========
+
+Das Röntgen zeigt bei der hinteren Pfote etwas markantes - siehe Bilder.
+
+----
+
+Bilder
+******
+
+2024-10-03
+==========
+
+Vordere linke Pfote:
+
+|04-paw-front|
+
+Hintere linke Pfote:
+
+|03-paw-back1|
+
+|03-paw-back2|
+
+2024-10-07
+==========
+
+Vordere linke Pfote:
+
+|07-paw-front|
+
+Hintere linke Pfote:
+
+|07-paw-back|
+
+2024-10-09
+==========
+
+Vordere linke Pfote:
+
+|09-paw-front|
+
+Hintere linke Pfote:
+
+|09-paw-back|
+
+2024-10-12
+==========
+
+Vordere linke Pfote:
+
+|12-paw-front|
+
+Hintere linke Pfote:
+
+|12-paw-back|
+
+2024-10-14
+==========
+
+Vordere linke Pfote:
+
+|14-paw-front|
+
+Hintere linke Pfote:
+
+|14-paw-back|
+
+2024-10-16
+==========
+
+Vordere linke Pfote:
+
+|16-paw-front|
+
+Hintere linke Pfote:
+
+|16-paw-back|
